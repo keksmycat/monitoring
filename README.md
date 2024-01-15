@@ -15,3 +15,4 @@
 <p>		- targets: ['node-exporter:9100']	</p>
 
    
+<p>Перезагрузить prometheus docker kill -s SIGHUP </p>
